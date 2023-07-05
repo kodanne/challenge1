@@ -23,7 +23,7 @@ body{
 @media screen and (max-width:800px) {
     body{
         
-        padding-top: 30px;
+        padding-top: 10px;
         
     }
     #success{
@@ -38,7 +38,7 @@ body{
     #main{
         width: 100% !important;
         height: 600px !important;
-        padding: 0px !important;
+        padding: 12px !important;
     }
     #success{
         height:600px !important
