@@ -20,6 +20,16 @@ body{
 #main{
     max-width: 1000px !important;
 }
+@media screen and (max-width:800px) {
+    body{
+        
+        padding-top: 30px;
+        
+    }
+    #success{
+        margin-top: 150px;
+    }
+}
 @media screen and (max-width:400px) {
     body{
         background-color: transparent !important;
@@ -27,7 +37,7 @@ body{
     } 
     #main{
         width: 100% !important;
-        height: 100% !important;
+        height: 600px !important;
         padding: 0px !important;
     }
     #success{
