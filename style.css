@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
 body{
     background-color: rgb(32, 9, 53);
-    padding-top: 150px;
+    padding-top: 2.5rem !important;
     font-family: 'Roboto', sans-serif;
 }
 .btn{
@@ -22,9 +22,7 @@ body{
 }
 @media screen and (max-width:800px) {
     body{
-        
-        padding-top: 10px;
-        
+        padding-top: 2rem !important;
     }
     #success{
         margin-top: 150px;
