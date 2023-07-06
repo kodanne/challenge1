@@ -40,7 +40,8 @@ body{
         height: 600px !important;
         padding: 12px !important;
     }
-    #success{
-        height:600px !important
-    }
+     #success{
+        margin-top:0;
+        height:600px
+    } 
 }
